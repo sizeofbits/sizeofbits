@@ -21,4 +21,4 @@ Both driven and self-motivated student who focuses on writing clean, elegant and
 
 - 😄 Pronouns: **He/Him**
 
-- 📫 How to reach me: **LinkedIn** or **Twitter**
+- 📫 How to reach me: **LinkedIn** or **X**
