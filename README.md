@@ -6,7 +6,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriele-mariello/)
 
-Both driven and self-motivated student who focuses on writing clean, elegant and efficient code. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems.
+Driven by an insatiable curiosity and a passion for innovation, I am an undergraduate student with a strong foundation in economics, management, and computer science. My academic pursuits at Bocconi University have equipped me with a robust analytical toolkit, enabling me to tackle complex data-driven challenges. I thrive in environments that require strategic thinking and a collaborative spirit, and I love to explore new technologies and leverage them to solve real-life problems.
 
 ## ✨ About Me
 
