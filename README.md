@@ -12,7 +12,7 @@ Driven by an insatiable curiosity and a passion for innovation, I am an undergra
 
 - 🎓 BEMACS student at **Bocconi University**
 
-- 🌱 Learning **Python and Javascript**
+- 🌱 Learning **Python**
 
 - 👯 Looking to collaborate on **Open Source Projects**
 
