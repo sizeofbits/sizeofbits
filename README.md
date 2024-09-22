@@ -10,7 +10,7 @@ I am a graduate student with a strong foundation in Economics, Management, and C
 
 ## ✨ About Me
 
-- 🎓 BEMACS student at **Bocconi University**
+- 🎓 MIE student at **University of Milan**
 
 - 🌱 Learning **Python**
 
