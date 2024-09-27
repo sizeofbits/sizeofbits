@@ -10,14 +10,12 @@ I am a graduate student with a strong foundation in Economics, Management, and C
 
 ## ✨ About Me
 
-- 🎓 MIE student at **University of Milan**
+* 🎓 **Current Focus:** Deepening my expertise in innovation management, entrepreneurial strategies, and the development of new ventures.
+* 💻 **Technical Skills:** Working with Python, R, and Google Analytics. Familiar with Google Cloud and GitHub.
+* 📊 **Business Acumen:**  Developing a stronger understanding of business principles, strategic decision-making, and market analysis. Keen to apply data-driven approaches to solve complex business challenges.
+* 🌐 **Interests:** Innovation Management, Data Analysis, Business Strategy, Technology, Open Source.
+* ✨ **Looking to collaborate on:** Open Source Projects. I'm eager to contribute to projects that align with my broad interests in technology and business.
 
-- 🌱 Learning **Python**
+## Let's Connect!
 
-- 👯 Looking to collaborate on **Open Source Projects**
-
-- 🚀 Working on **My Portfolio**
-
-- 😄 Pronouns: **He/Him**
-
-- 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/gabriele-mariello/)
+* [📫 **LinkedIn**](https://www.linkedin.com/in/gabriele-mariello/)
