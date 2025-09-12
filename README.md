@@ -8,7 +8,7 @@ I'm a graduate student with a multidisciplinary background in Economics, Managem
 
 **Description:** AI-powered assistant integrated into the browser, featuring a draggable UI and LLM-based text/image processing.
 
-**Technologies used:** HTML, CSS, JavaScript, TailwindCSS, Tailwind CLI, npm, Google Cloud.
+**Technologies used:** HTML, CSS, JavaScript, TailwindCSS, Tailwind CLI, npm, Large Language Models (via Google Cloud).
 
 ## 📫 Let's Connect
 I'm always up for connecting with other students, or anyone interested in data, tech, and business.  Whether you want to talk about my projects, work together on something, or just chat, let's connect!
